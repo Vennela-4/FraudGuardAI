@@ -1,11 +1,10 @@
-# Artificial Intelligence Based Methods in Credit Card Fraud Detection
+# FraudGuardAI - Exploring Artificial Intelligence Based Methods in Credit Card Fraud Detection
 
 This project aims to develop an AI-based system for fraud detection. The system utilizes machine learning techniques to identify fraudulent activities in financial transactions.
 
 ## Table of Contents
 
 - [Project Description](#project-description)
-- [Installation](#installation)
 - [Datasets](#dataset)
 - [Algorithms](#algorithms)
 ## Project Description
@@ -18,15 +17,7 @@ The project includes several key components:
 - Model training: Machine learning and deep learning models, such as XGBOOST or ANN, are trained using the preprocessed data.
 - Evaluation: The trained models are evaluated using various metrics, such as precision, recall, AUC, and F1 score.
 - Fraud detection: The system applies the trained model to new, unseen data to identify potential fraudulent transactions.
-
-## Installation
-
-To install and set up the AI-Based Fraud Detection project, follow these steps:
-
-1. Clone the repository:
-
-   ```shell
-   git clone https://github.com/Tek-nr/AI-Based-Fraud-Detection.git
+   
 
 ## Dataset
 
